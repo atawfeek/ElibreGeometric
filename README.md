@@ -13,9 +13,9 @@ This app uses "A generic solution to polygon clipping" library whihc is an exten
 - Verify that the following acceptance criteria are met:
 -	I can generate two non-convex polygons successfully at a time
 -	I can perform one of the following main operations on the generated polygons
-  - Intersection
-  - Subtraction
-  - Union
+    * Intersection
+    * Subtraction
+    * Union
 -	I can save the generated polygons after applying the chosen operation as an image to my disk.
 
 # Technologies
