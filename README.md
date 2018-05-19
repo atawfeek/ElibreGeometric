@@ -9,8 +9,10 @@ One of the commonly used algorithms to perform different operations like interse
 This app uses "A generic solution to polygon clipping" library whihc is an extension of Bala Vatti's clipping algorithm.
 
 # User Story
-As a user, I want to randomly generate two non-convex polygons 
-Please verify that the following acceptance criteria are met:  
+As a user, I want to randomly generate two non-convex polygons.
+
+Please verify that the following acceptance criteria are met:
+
 •	I can generate two non-convex polygons successfully at a time.
 •	I can perform one of the following main operations on the generated polygons
   - Intersection
