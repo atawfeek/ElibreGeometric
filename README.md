@@ -6,7 +6,7 @@ Recently, I got an exciting chance to work on geometric algorithms, and to execu
 
 One of the commonly used algorithms to perform different operations like intersection, union, subtraction and others on polygons is Vatti clipping algorithm.
 
-This app uses "A generic solution to polygon clipping" library whihc is an extension of Bala Vatti's clipping algorithm.
+This app uses "A generic solution to polygon clipping" library which is an extension of Bala Vatti's clipping algorithm.
 
 # User Story
 - As a user, I want to randomly generate two non-convex polygons.
@@ -22,6 +22,7 @@ This app uses "A generic solution to polygon clipping" library whihc is an exten
 - Asp.Net Core
 - Layerd Architecture  
   - Domain 
+  - Model
   - Presentation   
   - Test
 - Dependency Injection: **Unity**  
