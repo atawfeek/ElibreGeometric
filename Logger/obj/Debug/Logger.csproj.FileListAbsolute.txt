@@ -1,0 +1,6 @@
+E:\Private Work\ElibreGeometric\Logger\bin\Debug\Logger.dll
+E:\Private Work\ElibreGeometric\Logger\bin\Debug\Logger.pdb
+E:\Private Work\ElibreGeometric\Logger\obj\Debug\Logger.csprojAssemblyReference.cache
+E:\Private Work\ElibreGeometric\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+E:\Private Work\ElibreGeometric\Logger\obj\Debug\Logger.dll
+E:\Private Work\ElibreGeometric\Logger\obj\Debug\Logger.pdb

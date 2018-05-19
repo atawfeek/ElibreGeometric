@@ -1,0 +1,48 @@
+-----------Exception Details on  5/19/2018 5:56:28 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 5/19/2018 5:56:28 PM
+
+Error Line No : ine 112
+
+Error Message: Exception
+
+Exception Type: System.Exception
+
+Error Location : Test ILogger by Dependency Injection
+
+ Error Page Url: 
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  5/19/2018 5:58:20 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 5/19/2018 5:58:19 PM
+
+Error Line No : ine 112
+
+Error Message: Exception
+
+Exception Type: System.Exception
+
+Error Location : Test ILogger by Dependency Injection
+
+ Error Page Url: 
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

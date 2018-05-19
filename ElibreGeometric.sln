@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elibre.Geometric", "ElibreGeometric\Elibre.Geometric.csproj", "{C537DA9E-7F5F-40C9-B009-E903C607323A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clipper_library", "clipper_library\clipper_library.csproj", "{17D89FA6-3F5C-4E08-9A00-B3B7A8D5EF30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elibre.Factory", "ElibreFactory\Elibre.Factory.csproj", "{7AA6764A-E0A9-42B3-9A5B-62747780C8FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elibre.Test", "Elibre.Test\Elibre.Test.csproj", "{F0FCFFDF-A38F-403B-A813-A18768C894B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elibre.Domain", "Elibre.Domain\Elibre.Domain.csproj", "{0C39883D-3419-4996-B893-48D4F59F43A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logger", "Logger\Logger.csproj", "{B87A4EA2-EC40-4C58-B9C2-B67D30B74E85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C537DA9E-7F5F-40C9-B009-E903C607323A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C537DA9E-7F5F-40C9-B009-E903C607323A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C537DA9E-7F5F-40C9-B009-E903C607323A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C537DA9E-7F5F-40C9-B009-E903C607323A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17D89FA6-3F5C-4E08-9A00-B3B7A8D5EF30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17D89FA6-3F5C-4E08-9A00-B3B7A8D5EF30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17D89FA6-3F5C-4E08-9A00-B3B7A8D5EF30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17D89FA6-3F5C-4E08-9A00-B3B7A8D5EF30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AA6764A-E0A9-42B3-9A5B-62747780C8FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AA6764A-E0A9-42B3-9A5B-62747780C8FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AA6764A-E0A9-42B3-9A5B-62747780C8FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AA6764A-E0A9-42B3-9A5B-62747780C8FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0FCFFDF-A38F-403B-A813-A18768C894B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0FCFFDF-A38F-403B-A813-A18768C894B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0FCFFDF-A38F-403B-A813-A18768C894B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0FCFFDF-A38F-403B-A813-A18768C894B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C39883D-3419-4996-B893-48D4F59F43A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C39883D-3419-4996-B893-48D4F59F43A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C39883D-3419-4996-B893-48D4F59F43A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C39883D-3419-4996-B893-48D4F59F43A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B87A4EA2-EC40-4C58-B9C2-B67D30B74E85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B87A4EA2-EC40-4C58-B9C2-B67D30B74E85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B87A4EA2-EC40-4C58-B9C2-B67D30B74E85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B87A4EA2-EC40-4C58-B9C2-B67D30B74E85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0B175D7-BE6B-4ED0-BCED-21F49DC83F54}
+	EndGlobalSection
+EndGlobal
