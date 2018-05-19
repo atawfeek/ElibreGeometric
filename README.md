@@ -13,12 +13,12 @@ As a user, I want to randomly generate two non-convex polygons.
 
 Please verify that the following acceptance criteria are met:
 
-•	I can generate two non-convex polygons successfully at a time.
-•	I can perform one of the following main operations on the generated polygons
+-	I can generate two non-convex polygons successfully at a time.
+-	I can perform one of the following main operations on the generated polygons
   - Intersection
   - Subtraction
   - Union
-•	I can save the generated polygons after applying the chosen operation as an image to my disk.
+-	I can save the generated polygons after applying the chosen operation as an image to my disk.
 
 # Technologies
 - Asp.Net Core
